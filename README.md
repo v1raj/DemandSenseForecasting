@@ -1,0 +1,1 @@
+This project demonstrates a pipeline for time series forecasting using ConvLSTM2D, leveraging deep learning techniques. It integrates data preprocessing, feature engineering, and model training for accurate predictions of future values based on past data.
